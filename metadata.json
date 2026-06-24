@@ -1,0 +1,8 @@
+{
+  "name": "Voice Emotion Analyzer",
+  "description": "An interactive, beautiful web application using Web MediaRecorder API and Gemini AI to record audio and analyze vocal emotion, pitch, speed, and content in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
